@@ -46,9 +46,9 @@ function Footer() {
                         </a>
 
                         <Link to='/contactus'>
-                            <a href='/contact'>
-                                <p className='text-white hover:cursor-pointer'>Contact</p>
-                            </a>
+
+                            <p className='text-white hover:cursor-pointer '>Contact</p>
+
                         </Link>
                     </div>
                     <div className='sb_footer-links-div'>

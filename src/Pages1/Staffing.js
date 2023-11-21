@@ -10,15 +10,15 @@ function Staffing() {
             <Header />
 
             <div className='mt-20'>
-                <div class="bg-[url(https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1974)] h-[400px] w-full  border-4   contain  relative ">
-                    <div class=" p-14 m-10 bg-gray-500/50 w-2/3 text-center rounded-full">
-                        <h1 class="text-indigo-950  p-3 m-5 text-3xl"> INSTITUTE FOR SOFTWARE TRAINING AND DEVELOPMENT</h1>
-                        <p class="text-indigo-950 font-semibold  text-4xl">
+                <div className="bg-[url(https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=1974)] h-[400px] w-full  border-4   contain  relative ">
+                    <div className=" p-14 m-10 bg-gray-500/50 w-2/3 text-center rounded-full">
+                        <h1 className="text-indigo-950  p-3 m-5 text-3xl"> INSTITUTE FOR SOFTWARE TRAINING AND DEVELOPMENT</h1>
+                        <p className="text-indigo-950 font-semibold  text-4xl">
                             ONE STEP AHEAD TO SUCCESS
                         </p>
                     </div>
                 </div>
-                <div class="flex items-center bg-slate-200 justify-center p-10">
+                <div className="flex items-center bg-slate-200 justify-center p-10">
                     <img src="https://media.istockphoto.com/id/1413375076/photo/minimal-style-modern-white-classroom-with-blue-chairs-3d-render.webp?b=1&s=170667a&w=0&k=20&c=HjW0gcYTAX76lJFfevFbNPRUl6AUQDxfhH2Tj3gZAzI=" className='w-[450px] h-[330px] z-10 mr-5 border-indigo-950 border-2' />
                     <div className=' px-20 bg-slate-100  border-4 border-indigo-950 w-[600px] h-[400px] ml-[-104px]'>
                         <div className='ml-5  text-center mt-20'>

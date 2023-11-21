@@ -9,7 +9,7 @@ function FAQs() {
                 <h1>Frequently Asked Questions</h1>
                 <Accordion elevation={4}>
                     <AccordionSummary expandIcon={<ExpandMoreIcon />} aria-controls='panel1a-content' id="panel1a-header">
-                        <Typography><p className='p2'>How can I use Google Fonts on my website?</p></Typography>
+                        <Typography>How can I use Google Fonts on my website?</Typography>
                     </AccordionSummary>
                     <AccordionDetails>
                         Use the Google Fonts CSS API to embed the fonts directly on your website.
@@ -18,7 +18,7 @@ function FAQs() {
                 <br />
                 <Accordion elevation={4}>
                     <AccordionSummary expandIcon={<ExpandMoreIcon />} aria-controls='panel2a-content' id="panel2a-header">
-                        <Typography><p className='p2'>How do I use Google Fonts in my Android app?</p></Typography>
+                        <Typography>How do I use Google Fonts in my Android app?</Typography>
                     </AccordionSummary>
                     <AccordionDetails>
                         See the article Get Started with the Google Fonts for Android.
@@ -27,7 +27,7 @@ function FAQs() {
                 <br />
                 <Accordion elevation={4}>
                     <AccordionSummary expandIcon={<ExpandMoreIcon />} aria-controls='panel3a-content' id="panel3a-header">
-                        <Typography><p className='p2'>How do I use Material Symbols in my project?</p></Typography>
+                        <Typography>How do I use Material Symbols in my project?</Typography>
                     </AccordionSummary>
                     <AccordionDetails>
                         Visit the Material Symbols guide.

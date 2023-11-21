@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
-import { AiOutlineDown } from 'react-icons/ai'
+// import { AiOutlineDown } from 'react-icons/ai'
 import { Link } from 'react-router-dom'
-import { db, storage } from '../firebase'
-import { getDownloadURL, uploadBytesResumable } from 'firebase/storage'
-import { addDoc, collection, serverTimestamp } from 'firebase/firestore'
+// import { db, storage } from '../firebase'
+// import { getDownloadURL, uploadBytesResumable } from 'firebase/storage'
+// import { addDoc, collection, serverTimestamp } from 'firebase/firestore'
 
 function Resiatration() {
 
